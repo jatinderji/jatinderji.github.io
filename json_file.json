@@ -1,0 +1,38 @@
+[
+{
+"loanID":262628,
+"loanStatus":"Locked",
+"borrowerName":"John Homeowner",
+"loanPurpose":"Purchase",
+"baseLoanAmount":320000,
+"ltv":80,
+"cltv":0,
+"desiredLockPeriod":30,
+"occupancy":"PrimaryResidence",
+"fico":0
+},
+{
+"loanID":400518622,
+"loanStatus":"pending",
+"borrowerName":"Kelly Crowther",
+"loanPurpose":"purchase",
+"baseLoanAmount":339986,
+"ltv":95,
+"cltv":95,
+"desiredLockPeriod":90,
+"occupancy":"OwnerOccupied",
+"fico":780
+},
+{
+"loanID":400518623,
+"loanStatus":"pending",
+"borrowerName":"Ritesh Grover",
+"loanPurpose":"purchase",
+"baseLoanAmount":439986,
+"ltv":92,
+"cltv":92,
+"desiredLockPeriod":60,
+"occupancy":"OwnerOccupied",
+"fico":680
+}
+]
